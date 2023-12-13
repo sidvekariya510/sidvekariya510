@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sidvekariya510](https://github.com/sidvekariya510)
+- 👨‍💻 All of my projects are available at [https://github.com/sidvekariya510](https://github.com/sidvekariya510?tab=repositories)
 
 - 💬 Ask me about **React JS, Bootstrap, JavaScript, CSS3**
 
