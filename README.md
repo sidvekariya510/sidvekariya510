@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidvekariya510&label=Profile%20views&color=0e75b6&style=flat" alt="sidvekariya510" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sidvekariya510](https://github.com/sidvekariya510?tab=repositories)
 
