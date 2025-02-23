@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sidvekariya510](https://github.com/sidvekariya510?tab=repositories)
 
-- 💬 Ask me about **React JS, Bootstrap, JavaScript, CSS3**
+- 💬 Ask me about **React.js, TypeScript, RTK, MUI, JavaScript, Context API,CSS3**
 
 - 📫 How to reach me **siddharthvekariya510@gmail.com**
 
