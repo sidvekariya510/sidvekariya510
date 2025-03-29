@@ -4,11 +4,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sidvekariya510&label=Profile%20views&color=0e75b6&style=flat" alt="sidvekariya510" /> </p>
 
-- 🌱 I’m currently working on **React JS**
+- 🌱 I’m currently working on **Fullstack Web Dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/sidvekariya510](https://github.com/sidvekariya510?tab=repositories)
 
-- 💬 Ask me about **React.js, TypeScript, RTK, MUI, JavaScript, Context API,CSS3**
+- 💬 Ask me about **React.js, TypeScript, RTK, MUI, JavaScript, Context API, React-Router, CSS3**
 
 - 📫 How to reach me **siddharthvekariya510@gmail.com**
 
