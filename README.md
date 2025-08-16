@@ -18,67 +18,65 @@
 ---
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
 
   <!-- Backend Tech -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="background:#fff; padding:4px; border-radius:4px;"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40" style="background:#fff; border-radius:4px;"/>
-  </a>
-  <a href="https://typeorm.io/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeORM" width="40" height="40" style="background:#fff;"/>
-  </a>
-
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://typeorm.io/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeORM" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  
   <!-- Frontend Tech -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Databases -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" style="background:#fff; border-radius:4px;"/>
-  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
+  </a>&nbsp;&nbsp;&nbsp;
+  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
+  </a>&nbsp;&nbsp;&nbsp;
 
   <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer" style="margin-right: 10px;">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg" alt="VSCode" width="40" height="40"/>
-  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
+  </a>&nbsp;&nbsp;&nbsp;
 </p>
+
 
 ---
 
@@ -156,10 +154,11 @@ Repo :  <a href="https://github.com/sidvekariya510/serverless-next-supabase" tar
 
 **Availability:** Open for freelance & contract work. Happy to jump on a quick call to discuss scope and timeline.
 
-Looking forward to building something great together - Siddharth
+Thanks for visiting my profile!
+Let’s connect and create something amazing together 🚀 - Siddharth
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidvekariya510&show_icons=true&locale=en&layout=compact" alt="sidvekariya510" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidvekariya510&show_icons=true&locale=en&layout=compact&theme=radical" alt="sidvekariya510" /></p>
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidvekariya510&" alt="sidvekariya510" /></p> -->
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidvekariya510&show_icons=true&locale=en" alt="sidvekariya510" /></p> -->
 
