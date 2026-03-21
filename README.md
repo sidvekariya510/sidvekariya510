@@ -1,164 +1,144 @@
-<h1 align="center">Hi 👋, I'm Siddharth Vekariya</h1>
-<h3 align="center">A Passionate Fullstack Developer from India - I build scalable web apps that solve real business problems</h3>
-<img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif">
+<!-- GitHub Profile README — Siddharth Vekariya -->
+<!-- Paste this into your GitHub profile repo: sidvekariya510/sidvekariya510/README.md -->
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sidvekariya510&label=Profile%20views&color=0e75b6&style=flat" alt="sidvekariya510" />
-</p>
+<div align="center">
 
----
+```
+  ███████╗██╗██████╗ ██████╗ ██╗  ██╗ █████╗ ██████╗ ████████╗██╗  ██╗
+  ██╔════╝██║██╔══██╗██╔══██╗██║  ██║██╔══██╗██╔══██╗╚══██╔══╝██║  ██║
+  ███████╗██║██║  ██║██║  ██║███████║███████║██████╔╝   ██║   ███████║
+  ╚════██║██║██║  ██║██║  ██║██╔══██║██╔══██║██╔══██╗   ██║   ██╔══██║
+  ███████║██║██████╔╝██████╔╝██║  ██║██║  ██║██║  ██║   ██║   ██║  ██║
+  ╚══════╝╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  ╚═╝  ╚═╝
+```
 
-## What I do (for clients)
-- 🔭 I build **scalable fullstack applications** (SaaS, ERPs, marketplaces, productized web apps).
-- 🚀 I focus on delivering **business value**: Reliable apps, Fast load times, Secure APIs and Maintainable code.
-- 🔧 Services: MVPs, Full Product Builds, API design & integrations, Performance Tuning, Migration & Consulting.
+### AI-Powered SaaS Engineer · NestJS · Next.js · LLM Workflows · Azure · Python
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-siddharthvekariya.netlify.app-4ade80?style=flat-square&logo=netlify&logoColor=black)](https://siddharthvekariya.netlify.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-siddharth--vekariya-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/siddharth-vekariya)
+[![Email](https://img.shields.io/badge/Email-siddharthvekariya510@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:siddharthvekariya510@gmail.com)
+[![Availability](https://img.shields.io/badge/Status-Available%20for%20Freelance-4ade80?style=flat-square)](https://siddharthvekariya.netlify.app)
 
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-
-  <!-- Backend Tech -->
-  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" alt="Express.js" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="NestJS" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://typeorm.io/" target="_blank" rel="noreferrer">
-    <img src="https://avatars.githubusercontent.com/u/20165699?s=200&v=4" alt="TypeORM" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  
-  <!-- Frontend Tech -->
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React.js" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://redux.js.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <!-- Databases -->
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
-  </a>&nbsp;&nbsp;&nbsp;
-  <a href="https://supabase.com/" target="_blank" rel="noreferrer">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
-  </a>&nbsp;&nbsp;&nbsp;
-
-  <!-- Tools -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg" alt="Git" width="40" height="40" style="background:#fff; padding:4px; border-radius:6px;"/>
-  </a>&nbsp;&nbsp;&nbsp;
-</p>
-
+</div>
 
 ---
 
-## Selected wins (trust signals)
+## What I actually build
 
-- **TypingBolt (MERN / TypeScript)** — Typing practice platform (high-traffic) built for scale; features real-time tests, analytics and OpenRouter Integrations for AI features. *Impact:* 50K+ users; 11M+ tests.  
+I architect and ship **AI-native SaaS systems** — multi-tenant, production-ready, built to scale before you need it to.
 
-- **Arhamshare — KYC Portal (React)** — Production KYC onboarding portal with document uploads, verification workflow and third-party verification apis.
+Right now I'm the full-stack lead on **[Kavlo](https://www.kavlo.com)** — an enterprise contract intelligence platform in private beta. It connects to 50+ document sources and ERP systems via Nylas + MergeDev integrations, extracts every contract term and obligation using AI document intelligence pipelines (FastAPI + Celery + LLM), stores structured data in Supabase JSONB with dual-defense tenant isolation (RLS + app-level filtering), and triggers multi-step vendor workflows from Slack, Claude, or any MCP-connected tool. Human-in-the-loop supported.
 
-- **Serverless Product — Next.js + Supabase** — Serverless product platform (Next.js frontend + Supabase for auth/DB & edge functions). Fast to deploy, minimal infra cost, great for MVPs.  
+Before that: rebuilt **[TypingBolt](https://www.typingbolt.com)** from a legacy PHP codebase. Migrated 50K+ users and 11M+ test records from MySQL to MongoDB. Added AI-personalized learning paths. Running stable in production for over a year.
 
----
-
-## TypingBolt — short case study
-**Problem:** The product needed a robust, low-cost platform to handle many concurrent users taking typing tests, store large volumes of test records, and provide analytics without expensive infra complexity and also integrate Google Ads for revenue generation also migration of existing large SQL database to MongoDB.  
-
-**Solution:** I implemented a MERN-stack application in TypeScript with a separation of concerns between realtime test UI, backend scoring services. Optimizations included efficient DB indexing, background processing for analytics aggregation, and CDN-backed static assets. I also added instrumentation for performance monitoring and cost-aware hosting.  
-
-**Outcome:** The product running buttery smooth & DB migrated including **~50K active users** and **~11 Millions tests**. The architecture reduced per-request latency and kept hosting costs predictable — enabling the client to focus on AI features and Google Ads rather than firefighting infra.
-
-App Link : <a href="https://www.typingbolt.com/" target="blank">
-    TypingBolt
-  </a>
+I use **Claude Code** as a development orchestration layer. I own every architectural decision. AI handles execution velocity. Clients get the throughput of a small team at the accountability of one senior engineer.
 
 ---
 
-## Serverless Product — Next.js + Supabase (Project Description)
-**Overview:** A serverless-first product platform ideal for MVPs and early-stage SaaS. It uses Next.js (SSR) for the frontend, Supabase for authentication, Postgres DB and edge serverless functions (Supabase Edge Functions or Next.js API routes) for business logic.
+## Architecture — how Kavlo is built
 
-**Key features**
-- Authentication & user management via Supabase Auth (email + OAuth).
-- Postgres DB (Supabase) for transactional data and real-time subscriptions.
-- Image/file uploads using Supabase Storage.
-- Fast builds with Next.js (static pages + server-side rendering where required).
+```
+  ┌─────────────────────────────────────────────────────────────────────┐
+  │  EXTERNAL SOURCES                                                   │
+  │  Google Drive · SharePoint · Gmail · Outlook · SAP · Oracle · Slack │
+  └──────────┬─────────────┬───────────────┬───────────────┬────────────┘
+             │             │               │               │
+  ┌──────────▼─────────────▼───────────────▼───────────────▼────────────┐
+  │  INGESTION LAYER                                                    │
+  │  MergeDev (file sync)  │  Nylas (email sync)  │  MCP Server         │
+  │  FastAPI + Celery (document intelligence workers)                   │
+  └──────────┬─────────────────────────────────────┬────────────────────┘
+             │  PDF → LLM extraction → JSONB        │
+  ┌──────────▼──────────────────────────────────────▼──────────────────┐
+  │  CORE                                                              │
+  │  NestJS API  │  Supabase / PostgreSQL (RLS + multi-tenant)         │
+  │  Redis (cache + BullMQ)  │  Azure ACA (Docker + CI/CD)             │
+  └──────────┬──────────────────────────┬──────────────────────────────┘
+             │                          │
+  ┌──────────▼──────────────────────────▼──────────────────────────────┐
+  │  SURFACE                                                           │
+  │  Next.js App  │  Workflow Engine (HITL)  │  Slack / Claude / Teams │
+  └────────────────────────────────────────────────────────────────────┘
 
-**Why clients love it**
-- **Lower infra costs:** pay-for-what-you-use serverless model.
-- **Rapid time-to-market:** launch an MVP in days instead of weeks.
-- **Scalable:** auto-scaling edge functions and managed Postgres.
+  Green arrows = AI pipeline   Blue = core data flow   Dashed = async
+  Dual-defense isolation: Supabase RLS + application-level filtering on every query
+```
 
-Repo :  <a href="https://github.com/sidvekariya510/serverless-next-supabase" target="blank">
-    Serverless App (Not Original Repo : Client Privacy)
-  </a>
+---
 
+## Stack
+
+```
+Backend    NestJS · Node.js · Python (FastAPI · Celery) · Express.js
+Frontend   Next.js · React · TypeScript · Tailwind CSS · TanStack Query
+Data       PostgreSQL · Supabase (RLS + JSONB) · NeonDB · MongoDB · Redis
+DevOps     Azure (ACA · VM · Blob) · Docker · GitHub Actions CI/CD
+Integr.    Nylas · MergeDev · WebSockets · Stripe
+AI/LLM     Claude Code · MCP · OpenRouter · Document intelligence pipelines · Complex Automated workflows (HITL)
+```
+
+---
+
+## Selected work
+
+| Project | Scale | What I did |
+|---|---|---|
+| **[Kavlo](https://kavlo.com)** — Enterprise Contract Intelligence | Private Beta | Full-stack lead. Multi-tenant SaaS, document AI pipeline, MCP-native workflow automation |
+| **[TypingBolt](https://typingbolt.com)** — Typing Platform (Bolt AI) | 50K+ users · 11M+ tests | Solo rebuild from PHP. MySQL → MongoDB migration. AI learning paths. |
+| **KYC Portal** — Stock Market Onboarding | Production | Webcam integration, document verification, role-based dashboards |
+| **Insurance Broker ERP** — Policy Management | Production | 4-panel MERN ERP: Admin · POSP · Employee · Customer |
+
+---
+
+## Case study — TypingBolt migration
+
+**Problem:** Legacy PHP + MySQL platform serving 50K+ users couldn't handle concurrent test load, had no analytics infrastructure, and needed AI features added — all without downtime or data loss.
+
+**Approach:** Full platform rebuild in Node.js + React + TypeScript. Designed a MongoDB schema that preserved all historical test data relationships. Built a staged migration pipeline: parallel write → validation → cutover → cleanup. Added background processing for analytics aggregation, CDN-backed static assets, and DB indexing strategy that kept query times predictable at scale.
+
+**Result:** Zero downtime migration of 50K users and 11M test records. Platform running stable for 12+ months in production. AI-personalized learning paths shipped post-migration.
 
 ---
 
 ## How I work
 
-=> User-First Approach : Every project is crafted with the end-user in mind — ensuring intuitive, seamless experiences that drive engagement.
+**01 — Architecture first.**
+Before any code: domain research, docs review, data model design, tenant isolation strategy, API contracts, integration boundaries. All decided before writing a line.
 
-=> Clean, Scalable Code : I write code that’s not just functional — but clean, maintainable and scalable to support long-term growth.
+**02 — Claude Code execution.**
+I use Claude Code & other tools as an orchestration layer. I write the implementation plans, own all architectural decisions, and review every output. Net result: small-team throughput.
 
-=> Clear Communication : Regular updates, honest feedback, and smooth collaboration ensure your vision is always the priority.
+**03 — Integration over mocking.**
+Each module tested against real data before wiring to the next. Document pipelines process real PDFs. Auth flows tested across tenant boundaries. Nothing ships unverified.
 
-=> Reliability & Accountability : I respect timelines, take full ownership of my work and aim to deliver exactly what I promise - or better.
-
-=> Results-Driven Mindset : Your business goals guide every design and technical decision - because a website should deliver real value, not just look good.
-
----
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/siddharth-vekariya" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-vekariya" height="30" width="40" />
-  </a>
-</p>
+**04 — CI/CD as a deliverable.**
+Every project ends with a working deployment pipeline. GitHub Actions, Docker, Azure Container Apps or VM. Blue-green deploys where downtime isn't acceptable.
 
 ---
 
-## Portfolio & Contact
-- Portfolio: https://siddharthvekariya.netlify.app/  
-- GitHub (all projects): https://github.com/sidvekariya510  
-- Email (best for project inquiries): **siddharthvekariya510@gmail.com**
+## GitHub stats
 
-**Availability:** Open for freelance & contract work. Happy to jump on a quick call to discuss scope and timeline.
+<div align="center">
 
-Thanks for visiting my profile!
-Let’s connect and create something amazing together 🚀 - Siddharth
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=sidvekariya510&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=4ade80&text_color=888885)
 
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sidvekariya510&show_icons=true&locale=en&layout=compact&theme=radical" alt="sidvekariya510" /></p>
-<!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sidvekariya510&" alt="sidvekariya510" /></p> -->
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sidvekariya510&show_icons=true&locale=en" alt="sidvekariya510" /></p> -->
+---
 
+## Let's talk
+
+Building a SaaS product? Need an AI integration layer? Scaling something that's starting to show its early architectural decisions? [siddharthvekariya510@gmail.com](mailto:siddharthvekariya510@gmail.com)
+
+**Available for full-time freelance.** Response within 24 hours.
+
+<div align="center">
+
+```
+  kavlo.com · typingbolt.com · siddharthvekariya.netlify.app
+  India · Open to remote worldwide
+```
+
+![Profile views](https://komarev.com/ghpvc/?username=sidvekariya510&color=4ade80&style=flat-square&label=profile+views)
+
+</div>
