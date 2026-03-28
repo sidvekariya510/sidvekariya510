@@ -12,7 +12,7 @@
   ╚══════╝╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  ╚═╝  ╚═╝
 ```
 
-### AI-Powered SaaS Engineer · NestJS · Next.js · LLM Workflows · Azure · Python
+### AI-Native SaaS Engineer · NestJS · Next.js · LLM Workflows · Azure · Python
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-siddharthvekariya.netlify.app-4ade80?style=flat-square&logo=netlify&logoColor=black)](https://siddharthvekariya.netlify.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-siddharth--vekariya-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/siddharth-vekariya)
