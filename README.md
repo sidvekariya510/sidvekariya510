@@ -1,6 +1,6 @@
 
 <div align="center">
-
+  
 ```
   ███████╗██╗██████╗ ██████╗ ██╗  ██╗ █████╗ ██████╗ ████████╗██╗  ██╗
   ██╔════╝██║██╔══██╗██╔══██╗██║  ██║██╔══██╗██╔══██╗╚══██╔══╝██║  ██║
@@ -9,7 +9,6 @@
   ███████║██║██████╔╝██████╔╝██║  ██║██║  ██║██║  ██║   ██║   ██║  ██║
   ╚══════╝╚═╝╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  ╚═╝  ╚═╝
 ```
-<!-- Siddharth Vekariya GitHub Profile -->
 
 ### AI-Native SaaS Engineer · Full-Stack Architect
 
@@ -22,6 +21,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-siddharth--vekariya-0A66C2?style=flat-square\&logo=linkedin)](https://linkedin.com/in/siddharth-vekariya)
 [![Email](https://img.shields.io/badge/Email-siddharthvekariya510@gmail.com-EA4335?style=flat-square\&logo=gmail\&logoColor=white)](mailto:siddharthvekariya510@gmail.com)
 [![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-6FDA44?style=flat-square&logo=upwork&logoColor=black)](https://www.upwork.com/freelancers/~014a0f2dd7fd745e86?mp_source=share)
+
 
 </div>
 
