@@ -107,6 +107,24 @@ It is part of the system design.
 
 ---
 
+### StockPing - Multi-Tenant B2B Distribution SaaS
+
+* Postgres RLS + app-level isolation (cross-tenant attack-matrix tested)
+* Per-tenant React Native Android apps + FCM push
+* LLM-powered price negotiation; Nest + Prisma + React
+* Shipped to Play Store, CI/CD on DigitalOcean
+
+---
+
+### Gyan Architects PMS - Construction PMS (In Progress)
+
+* Casbin RBAC across an 8-tier, 250+ user org
+* XState state machines for a 19-stage workflow
+* Event-driven outbox + Inngest async workers
+* Turborepo monorepo: NestJS API + React admin
+
+---
+
 ### TypingBolt - 50K+ Users · 11M+ Tests
 
 * Full rebuild from legacy PHP → MERN
